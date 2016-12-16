@@ -35,7 +35,7 @@ public class VuforiaTeleOP extends LinearOpMode {
     float shootspeed = 0;
     boolean activatecapture = false;
 
-// test to make sure it can push/pull correctly
+// test to make sure it can push/pull
 
     public void Control()
     {
