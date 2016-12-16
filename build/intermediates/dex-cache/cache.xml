@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\Desktop\CTRW_Robot_Code_16-17-master\TeamCode\build\intermediates\exploded-aar\RobotCore-release\jars\libs\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5a051fb9930d4b0df111f4e71ba2c97136f8d1f7">
+        <dex dex="C:\Users\Jason\Desktop\CTRW_Robot_Code_16-17-master\TeamCode\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_113091b9fe12e51e70a68932c68dd0d103a60b9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\Desktop\CTRW_Robot_Code_16-17-master\TeamCode\build\intermediates\exploded-aar\WirelessP2p-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
+        <dex dex="C:\Users\Jason\Desktop\CTRW_Robot_Code_16-17-master\TeamCode\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-WirelessP2p-release_726ad5616774d801ba8aa5b952cee9572ad5f982.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\Desktop\CTRW_Robot_Code_16-17-master\TeamCode\build\intermediates\exploded-aar\Blocks-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="442e93c10918df3270cc37f9fcf9e90c43072eea">
+        <dex dex="C:\Users\Jason\Desktop\CTRW_Robot_Code_16-17-master\TeamCode\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-Blocks-release_06156a9290026ed3680758bebb00b05c62371d13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\Desktop\CTRW_Robot_Code_16-17-master\TeamCode\build\intermediates\exploded-aar\RobotCore-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dc4ad03580e3f29564476f06b65f06d89704c0a9">
+        <dex dex="C:\Users\Jason\Desktop\CTRW_Robot_Code_16-17-master\TeamCode\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-RobotCore-release_a24aea7276b3e4aabd3fa322b8ef6fff219810f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\Desktop\CTRW_Robot_Code_16-17-master\TeamCode\build\intermediates\exploded-aar\FtcCommon-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2204deca0490727b9009dba5cdb2ec515cdbcc63">
+        <dex dex="C:\Users\Jason\Desktop\CTRW_Robot_Code_16-17-master\TeamCode\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-FtcCommon-release_eda22ad070097b68bce1268188492a0c9cfaf2c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\Desktop\CTRW_Robot_Code_16-17-master\TeamCode\build\intermediates\exploded-aar\RobotCore-release\jars\libs\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d3fb718ef307cfff9ad988d06b98eadc292d1a34">
+        <dex dex="C:\Users\Jason\Desktop\CTRW_Robot_Code_16-17-master\TeamCode\build\intermediates\pre-dexed\debug\gson-2.7_16ee272a126e41841e368edb23c69818c07ffb59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\Desktop\CTRW_Robot_Code_16-17-master\TeamCode\build\intermediates\exploded-aar\RobotCore-release\jars\libs\d2xx.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="84a174a0d6bebc32bf1e7cd4139224f0b05df829">
+        <dex dex="C:\Users\Jason\Desktop\CTRW_Robot_Code_16-17-master\TeamCode\build\intermediates\pre-dexed\debug\d2xx_2d44e1328e4f8eb78008072f5dace72e014b5edc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\Desktop\CTRW_Robot_Code_16-17-master\TeamCode\build\intermediates\exploded-aar\Hardware-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d30a44d837c8f25360e4190341f43399eea81172">
+        <dex dex="C:\Users\Jason\Desktop\CTRW_Robot_Code_16-17-master\TeamCode\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-Hardware-release_1398d2e568aab2ac265974ec318dade74fd3e7a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\Desktop\CTRW_Robot_Code_16-17-master\TeamCode\build\intermediates\exploded-aar\ModernRobotics-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="01999c87afe3d10ffa06f3efa66f39e61e6aba0c">
+        <dex dex="C:\Users\Jason\Desktop\CTRW_Robot_Code_16-17-master\TeamCode\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-ModernRobotics-release_d88f01d0811e2b068641ab4c71d485cf1e5b32b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\Desktop\CTRW_Robot_Code_16-17-master\TeamCode\build\intermediates\exploded-aar\CTRW_Robot_Code_16-17-master\FtcRobotController\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="36cd1d889c7d80ee2e09cd559ddeefa1cbe37c24">
+        <dex dex="C:\Users\Jason\Desktop\CTRW_Robot_Code_16-17-master\TeamCode\build\intermediates\pre-dexed\debug\CTRW_Robot_Code_16-17-master-FtcRobotController-unspecified_bd0b64c7a83eaca8affdf6ed1c4618caedc1d026.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\Desktop\CTRW_Robot_Code_16-17-master\TeamCode\build\intermediates\exploded-aar\RobotCore-release\jars\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f1dde8a0e6ed1172450c657386da45fd1d7565f4">
+        <dex dex="C:\Users\Jason\Desktop\CTRW_Robot_Code_16-17-master\TeamCode\build\intermediates\pre-dexed\debug\Vuforia_9f89e3c40c57d0c6638ddd4a3dcef2a19e5308d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\Desktop\CTRW_Robot_Code_16-17-master\TeamCode\build\intermediates\exploded-aar\Analytics-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
+        <dex dex="C:\Users\Jason\Desktop\CTRW_Robot_Code_16-17-master\TeamCode\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-Analytics-release_22a6bb77a08dc7d36df8b1a4deaa4e121c7e4229.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jason\Desktop\CTRW_Robot_Code_16-17-master\TeamCode\build\intermediates\exploded-aar\Inspection-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b3051d2a26a36e5b402fd8aa14ec8a4bea328974">
+        <dex dex="C:\Users\Jason\Desktop\CTRW_Robot_Code_16-17-master\TeamCode\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-Inspection-release_c0a76e99b8d414b80ad096de0bc69a5200f6b162.jar" />
+    </item>
+
+</items>
